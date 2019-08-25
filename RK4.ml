@@ -1,3 +1,4 @@
+(* output.dat ファイルを前もって作成しておくこと *)
 let param = 1.0
 let init = (0.0,0.1)
 let t_max = 100.0
